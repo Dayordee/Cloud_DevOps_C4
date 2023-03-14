@@ -12,6 +12,31 @@
 
 Notes:
 Quickstart: Create a Linux VM
+1. I created a virtual machine 
+![Alt text](../../images/Screenshot%20(1017).png)
+
+2. Connected to my virtual machine
+![Alt text](../../images/Vm%20connected.png)
+![Alt text](../../images/Instances%20launched.png)
+![Alt text](../../images/Screenshot%20(1019).png)
+
+3. I understood the VM images
+
+4. I understood the VM stood sizes
+
+5. I understood the VM power states
+The virtual machine shows a pending status before it's starts running and show a shutting down stats before it is completely terminated
+![Alt text](../../images/Instance%20stopped.png)
+![Alt text](../../images/terminating%20state.png)
+![Alt text](../../images/shutting%20down.png)
+
+6. I ensured I shutdown my virtual machines while not in use
+![Alt text](../../images/system%20shutdown.png)
+
+
+
+
+
 
 https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
 Using a custom Amazon machine image (AMI)

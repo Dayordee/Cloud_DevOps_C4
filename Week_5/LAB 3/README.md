@@ -8,6 +8,26 @@
 5. Stop the service
 
 
+1. I created a Linux Vm
+![Alt text](../../images/Screenshot%20(984).png)
+
+2. I installed the Apache Web server, I bootstrapped into the virtual machine as described in the lab
+![Alt text](../../images/Screenshot%20(986).png)
+3. I started the service status via command line
+![Alt text](../../images/Screenshot%20(990).png)
+![Alt text](../../images/Screenshot%20(991).png)
+4. I was able to investigate the service status via command line and 'grep ' to know the specific status of the unit or services enable and grepped static to know the services static 
+![Alt text](../../images/Screenshot%20(992).png)
+![Alt text](../../images/Screenshot%20(994).png)
+![Alt text](../../images/Screenshot%20(995).png)
+5. I stop the service and shutdown the virtual machine and also shutdown the VM
+![Alt text](../../images/Screenshot%20(996).png)
+![Alt text](../../images/Screenshot%20(996).png)
+
+
+
+
+
 Challenge: Create a boostrapping script that will install and start this service on new EC2 VMs
 
 Notes:

@@ -11,5 +11,5 @@ This Week lab will focus on getting you acquainted with github
 
 
 
-
-
+![Alt text](../../images/Screenshot%20(948).png)
+![Alt text](../../images/Screenshot%20(949).png)

@@ -121,3 +121,32 @@ Connect to a remote server using a different user name: ssh -l username user@ser
 8. Change a user's secondary groups: usermod -G group1,group2,group3 username
 9. Change the name of a group: groupmod -n new_groupname groupname
 10. Change the group ID of a group: groupmod -g new_gid groupname
+
+
+![Alt text](../images/Screenshot%20(953).png)
+![Alt text](../images/Screenshot%20(954).png)
+![Alt text](../images/Screenshot%20(955).png)
+![Alt text](../images/Screenshot%20(956).png)
+![Alt text](../images/Screenshot%20(957).png)
+![Alt text](../images/Screenshot%20(958).png)
+![Alt text](../images/Screenshot%20(959).png)
+![Alt text](../images/Screenshot%20(960).png)
+
+![Alt text](../images/Screenshot%20(961).png)
+![Alt text](../images/Screenshot%20(962).png)
+![Alt text](../images/Screenshot%20(963).png)
+![Alt text](../images/Screenshot%20(964).png)
+![Alt text](../images/Screenshot%20(965).png)
+
+![Alt text](../images/Screenshot%20(966).png)
+![Alt text](../images/Screenshot%20(967).png)
+![Alt text](../images/Screenshot%20(968).png)
+![Alt text](../images/Screenshot%20(969).png)
+![Alt text](../images/Screenshot%20(970).png)
+![Alt text](../images/Screenshot%20(971).png)
+![Alt text](../images/Screenshot%20(972).png)
+![Alt text](../images/Screenshot%20(973).png)
+
+
+
+
