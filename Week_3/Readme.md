@@ -87,7 +87,7 @@ Go back to your home directory.
 1. Use grep to filter the output of ls: ls -l | grep "\.txt"
 2. Use awk to extract fields from the output of ls: ls -l | awk '{print $9}'
 3. Use sed to modify the output of ls: ls -l | sed 's/^/ /'
-4. Use uniq to remove duplicate lines from the output of ls: ls -l | uniq
+4. Use uniq to remove duplicate lines from the output of ls:
 5. Use head to display only the first few lines of the output of ls: ls -l | head -n 5
 
 # Using vi/vim to edit text files
@@ -146,7 +146,13 @@ Connect to a remote server using a different user name: ssh -l username user@ser
 ![Alt text](../images/Screenshot%20(971).png)
 ![Alt text](../images/Screenshot%20(972).png)
 ![Alt text](../images/Screenshot%20(973).png)
-
-
-
+![Alt text](../images/Screenshot%20(1033).png)
+![Alt text](../images/Screenshot%20(1034).png)
+![Alt text](../images/Screenshot%20(1035).png)
+![Alt text](../images/Screenshot%20(1036).png)
+![Alt text](../images/Screenshot%20(1037).png)
+![Alt text](../images/Screenshot%20(1038).png)
+![Alt text](../images/Screenshot%20(1039).png)
+![Alt text](../images/Screenshot%20(1040).png)
+![Alt text](../images/Screenshot%20(1041).png)
 
