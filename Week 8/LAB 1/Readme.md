@@ -51,6 +51,4 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-attaching-volume.html
 
 10. I confirmed the mount with the list mount command 'df'
 
-
-
-4. i created a new volume from the snapshot taken 
+![Alt text](../../images/Screenshot%20(1133).png)
