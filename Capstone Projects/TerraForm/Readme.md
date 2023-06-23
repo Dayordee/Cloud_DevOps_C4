@@ -1,7 +1,7 @@
 # Deploy Apache Web Server using Terraform IaC
 
 ## Objective
-THe objective of this project to write Terraform IaC to deploy Apache Webserver in AWS cloud.
+The objective of this project to write Terraform IaC to deploy Apache Webserver in AWS cloud.
 
 ## Requisite
 Create below resources using  Terraform IaC
