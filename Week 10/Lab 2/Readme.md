@@ -29,10 +29,11 @@ We now launched an Ec2 instance to the public subnet
 ![Alt text](../../images/Screenshot%20(1245).png)
 
 
-and launched a a DB instance into the private subnet 
+and launched a a DB instance into the private subnet
 
-
-
+![Alt text](../../Week%2010/Lab%202/images/Screenshot%202023-06-25%20at%209.02.59%20PM.png)
+![Alt text](../../Week%2010/Lab%202/images/Screenshot%202023-06-25%20at%209.36.34%20PM.png)
+![Alt text](../../Week%2010/Lab%202/images/Screenshot%202023-06-25%20at%209.36.58%20PM.png)
 And performed clean up
 
 
