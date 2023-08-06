@@ -39,3 +39,18 @@ Access the web application from public internet browser using the domain name.
 
 ### Guide
 https://dev.to/chefgs/create-apache-web-server-in-aws-using-terraform-1fpj
+
+
+
+1. I downloaded the terraform Iac and i added to the path of my machine
+![Alt text](<img/Screenshot (7).png>)
+
+2. I created a security credential to configure my cli
+![Alt text](<img/Screenshot (9).png>)
+3. i wrote the code to launch an ec2 instance using aws as the provider
+![Alt text](<img/Screenshot (13).png>)
+4. I formatted with terraform, initilized,validated, and plan with terraform
+![Alt text](<img/Screenshot (14).png>)
+5. I then applied the code to launch my ec2 instance
+![Alt text](<img/Screenshot (15).png>)
+
