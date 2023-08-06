@@ -53,4 +53,11 @@ https://dev.to/chefgs/create-apache-web-server-in-aws-using-terraform-1fpj
 ![Alt text](<img/Screenshot (14).png>)
 5. I then applied the code to launch my ec2 instance
 ![Alt text](<img/Screenshot (15).png>)
+![Alt text](<img/Screenshot (16).png>)
+![Alt text](<img/Screenshot (17).png>)
 
+6. I confirmed to see it's rununing
+![Alt text](<img/Screenshot (18).png>)
+
+7. I connected to it 
+![Alt text](<img/Screenshot (19).png>)
