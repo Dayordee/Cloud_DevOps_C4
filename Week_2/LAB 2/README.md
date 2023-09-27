@@ -22,7 +22,7 @@ Quickstart: Create a Linux VM
 
 3. I understood the VM images
 
-4. I understood the VM stood sizes
+4. I understood the VM sizes
 
 5. I understood the VM power states
 The virtual machine shows a pending status before it's starts running and show a shutting down stats before it is completely terminated
