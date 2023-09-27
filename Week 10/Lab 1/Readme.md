@@ -12,7 +12,7 @@ NB: You need to launch at least two instances to do this.
 
 Guide https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/load-balancer-getting-started.html
 
-Firstly, I launched to two instances with i will be running my Load Balancers;  
+Firstly, I launched to two instances with which i will be running my Load Balancers;  
 ![Alt text](../../images/Screenshot%20(1175).png)
 1. I created an Application load balancer
 In this I used two availablity zones, A target group and 5 security groups
