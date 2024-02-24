@@ -22,45 +22,45 @@ Read more via: https://docs.aws.amazon.com/AmazonS3/latest/userguide/add-bucket-
 Good Luck!
 
 Note: This project was done by a triad which is TRIAD 7
-1.  We created a S3 bucket giving it a unique (triad7-capstoneproject) 
+1.  I created a S3 bucket giving it a unique (triad7-capstoneproject) 
 ![Alt text](../image/Screenshot%20(1214).png)
 
-2   During creating, we enabled the public access to the bucket objects via the S3 object URL.
+2   I configured the public access to the bucket objects via the S3 object URL.
 ![Alt text](../image/Screenshot%20(1215).png)
 ![Alt text](../image/Screenshot%20(1216).png)
 
-3. We Secured the bucket by editing the bucket policy to allow API calls to "Getobject" in the bucket
+3. I Secured the bucket by editing the bucket policy to allow API calls to "Getobject" in the bucket
 ![Alt text](../image/Screenshot%20(1217).png)
 ![Alt text](../image/Screenshot%20(1219).png)
 ![Alt text](../image/Screenshot%20(1220).png)
 
 
-4. We Uploaded the files in the static website folder to your bucket. We kind of tweaked the site a little bit.
-![Alt text](../image/Screenshot%20(1221).png)
+4. I Uploaded the files to be hosted on the static website into the bucket.
+   ![Alt text](../image/Screenshot%20(1221).png)
 ![Alt text](../image/Screenshot%20(1222).png)
 ![Alt text](../image/Screenshot%20(1223).png)
 
-5.  We Configured  the bucket properties to allow for static website hosting
+5.  I Configured  the bucket properties to allow for static website hosting
 ![Alt text](../image/Screenshot%20(1224).png)
 ![Alt text](../image/Screenshot%20(1225).png)
 ![Alt text](../image/Screenshot%20(1226).png)
 
-6. We Copied the arn generated to use in the cloudfront ditribution creation
+7. I Copied the arn generated to use in the cloudfront ditribution creation
 ![Alt text](../image/Screenshot%20(1229).png)
 
-7. We Tested the arn to if it is working (We saw our static webpage)
+8. I Tested the arn to if it is working (I saw my webpage!)
 ![Alt text](../image/Screenshot%20(1230).png)
 
 
-8. We Created a cloudfront distribution using the arn we copied.
+9. I Created a cloudfront distribution using the arn we copied.
 ![Alt text](../image/Screenshot%20(1231).png)
 ![Alt text](../image/Screenshot%20(1232).png)
 ![Alt text](../image/Screenshot%20(1233).png)
 ![Alt text](../image/Screenshot%20(1234).png)
 
-9. We Used the cloudfront DNS to check if the static webpage has been successfully deployed.
+10. I Used the cloudfront DNS to check if the static webpage has been successfully deployed.
 
-So by adding the the path of the  to the homepage of the static website to the DNS of the cloudfront we will get our static website
+So by adding the the path of the  to the homepage of the static website to the DNS of the cloudfront I would get our static website
 
 ![Alt text](../image/Screenshot%20(1237).png)
 
@@ -69,7 +69,7 @@ So by adding the the path of the  to the homepage of the static website to the D
 11. I Created a folder in the capstone project 1, named it, "image,".  and I Uploaded the screenshots and push to your git repo.
 
 
-12. We Performed clean up operations so we would not be billed
+12. I Performed clean up operations so I would nt incur further cost
 ![Alt text](../image/Screenshot%20(1238).png)
 
 
